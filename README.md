@@ -1,5 +1,4 @@
 # praktikum5.
-# praktikum-5
 
 ## program sederhana yang akan menampilkan daftar nilai mahasiswa
 
