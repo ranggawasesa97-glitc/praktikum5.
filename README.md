@@ -355,3 +355,5 @@ if __name__ == "__main__":
 ## hasil
 <img width="1919" height="819" alt="image" src="https://github.com/user-attachments/assets/5b8ea799-8665-4899-8a21-498df1ae7aae" />
 <img width="1383" height="754" alt="image" src="https://github.com/user-attachments/assets/2d7f718f-95f7-4ba0-bcc9-01fc2a70b2ba" />
+<img width="1258" height="461" alt="image" src="https://github.com/user-attachments/assets/39ee5921-980f-4be0-8cea-c1b8a8955c80" />
+
